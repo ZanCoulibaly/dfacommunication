@@ -1,0 +1,11 @@
+.col{
+    padding: 1px;
+    border: 1px solid #b22c33;
+}
+p{
+    color: rgb(36, 35, 35);
+    text-align: center;
+}
+.col img{
+    width: 100%;
+}
